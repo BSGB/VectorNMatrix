@@ -1,0 +1,4 @@
+﻿  VectorMatrixProjectTwo.cpp
+c1xx : warning C4199: dwufazowe wyszukiwanie nazw nie jest obsługiwane w trybie C++/CLI, C++/CX ani OpenMP, użyj wartości /Zc:twoPhase-
+c:\users\bartosz\source\repos\vectormatrixprojecttwo\vectormatrixprojecttwo\vectormatrixprojecttwo.cpp(39): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  VectorMatrixProjectTwo.vcxproj -> C:\Users\Bartosz\source\repos\VectorMatrixProjectTwo\Debug\VectorMatrixProjectTwo.exe
